@@ -1,0 +1,1 @@
+python train.py --dataroot F:\HCP\unzipnii --name test1 --model my --direction AtoB --dataset_mode alignedformri --input_type="T1w_acpc"
